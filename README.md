@@ -7,3 +7,5 @@ We provide two pretrained models:
 
 *Note that* the pretrained models are trained under the `MATLAB bicubic` kernel. 
 If the downsampled kernel is different from that, the results may have artifacts.
+
+模型在原作者手上
