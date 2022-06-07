@@ -9,3 +9,5 @@ We provide two pretrained models:
 If the downsampled kernel is different from that, the results may have artifacts.
 
 模型在原作者手上
+
+這可以把低解析度的圖片，轉換成高解析度圖片。
